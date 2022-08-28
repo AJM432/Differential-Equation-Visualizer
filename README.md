@@ -1,5 +1,5 @@
 # Differential-Equation-Visualizer
-View any first-order differential equation of the form dy/dx = f(x, y) as a slope field.
+View any first-order differential equation of the form $\frac{dy}{dx} = f(x, y)$ as a slope field.
 
 # Example
 ## $\frac{dy}{dx} = \frac{-x}{y}$
