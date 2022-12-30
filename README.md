@@ -13,7 +13,28 @@
 
 
 ## Usage
-To Come.
+In terminal enter the following commands. You must have C++, SFML and Make configured on your system.
+```bash
+git clone https://github.com/AJM432/Differential-Equation-Visualizer.git
+cd Differential-Equation-Visualizer
+make
+./main
+```
+
+To change the differental equation shown, follow these steps using vim or any text editor. First navigate to the root folder.
+```bash
+vim src/SlopeField.cpp
+```
+
+Then edit the function called eval_dydx by changing the return value to the desired function to be visualized.
+
+```cpp
+// differential equation input
+double SlopeField::eval_dydx(double x, double y)
+{
+	return pow(2.71, y);
+}
+```
 
 ## Screenshots
 
