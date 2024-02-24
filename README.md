@@ -36,10 +36,14 @@ double SlopeField::eval_dydx(double x, double y)
 }
 ```
 
-## Screenshots
+## Screenshots & Videos
 
 ## $\frac{dy}{dx} = \frac{-x}{y}$
 ![circle_derivative](https://user-images.githubusercontent.com/49791407/178153593-e4d2dbbd-4cfb-4ebb-b060-74bf8aafd124.png)
 
 ## $\frac{dy}{dx} = y$
 ![e^x](https://user-images.githubusercontent.com/49791407/178154857-8f7ddbf2-ce2b-4cf7-83b7-dd323891ebdc.png)
+
+## Extending slope lines and varying the parameters of $\frac{dy}{dx} = \frac{-x}{y}$
+https://github.com/AJM432/Differential-Equation-Visualizer/assets/49791407/a92b7a5e-2882-457b-a27f-1fe93ae984b3
+
